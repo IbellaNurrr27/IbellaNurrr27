@@ -48,8 +48,4 @@
 ### 📫 How to reach me
 - Email: **noor.tay27@gmail.com**  
 
----
-
-### 📊 GitHub Stats
-![Noor_ul_Ain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noor-ul-ain&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noor-ul-ain&layout=compact&theme=radical)
+GOODBYEEEEEEEEEEEEEEEEE
